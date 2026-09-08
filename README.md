@@ -1,3 +1,7 @@
+## Parcours français
+
+Lire le [parcours Balancer V2 en français](docs/fr/README.md) : dix chapitres courts sur le Vault, les pools pondérés, les swaps et la liquidité.
+
 # <img src="logo.svg" alt="Balancer" height="128px">
 
 # Balancer V2 Monorepo
